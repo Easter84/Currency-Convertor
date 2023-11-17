@@ -1,0 +1,493 @@
+[2023-11-07 15:58:03 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&sort=country&page[size]=1000
+[2023-11-07 15:59:02 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&sort=country&page[size]=1000
+[2023-11-07 15:59:02 - api_access.py:25 - INFO - Response is <Response [400]> in self.make_request()
+[2023-11-07 15:59:02 - api_access.py:44 - INFO - Results: <Response [400]>
+[2023-11-07 15:59:17 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&sort=country&page[size]=1000
+[2023-11-07 15:59:17 - api_access.py:25 - INFO - Response is <Response [400]> in self.make_request()
+[2023-11-07 15:59:17 - api_access.py:44 - INFO - Results: <Response [400]>
+[2023-11-07 15:59:23 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&sort=country&page[size]=1000
+[2023-11-07 15:59:23 - api_access.py:25 - INFO - Response is <Response [400]> in self.make_request()
+[2023-11-07 15:59:23 - api_access.py:44 - INFO - Results: <Response [400]>
+[2023-11-07 15:59:32 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&sort=country&page[size]=1000
+[2023-11-07 15:59:32 - api_access.py:25 - INFO - Response is <Response [400]> in self.make_request()
+[2023-11-07 15:59:32 - api_access.py:44 - INFO - Results: <Response [400]>
+[2023-11-07 15:59:51 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&sort=country&page[size]=1000
+[2023-11-07 15:59:51 - api_access.py:25 - INFO - Response is <Response [400]> in self.make_request()
+[2023-11-07 15:59:51 - api_access.py:44 - INFO - Results: <Response [400]>
+[2023-11-07 16:01:20 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 16:01:21 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 16:01:21 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 16:12:17 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 16:12:18 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 16:12:18 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 16:12:32 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 16:12:32 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 16:12:32 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 16:16:01 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 16:16:02 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 16:16:02 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 16:18:05 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 16:18:05 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 16:18:05 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 16:19:46 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 16:19:47 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 16:19:47 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 16:20:35 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 16:20:35 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 16:20:35 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 16:20:52 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 16:20:52 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 16:20:52 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 16:21:51 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 16:21:51 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 16:21:51 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 16:22:59 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 16:23:00 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 16:23:00 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 16:25:30 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 16:25:30 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 16:25:30 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 16:27:09 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 16:27:10 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 16:27:10 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 16:29:41 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 16:29:41 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 16:29:41 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 16:35:45 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 16:35:45 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 16:35:45 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 16:37:12 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 16:37:12 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 16:37:12 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 16:48:48 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 16:48:48 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 16:48:48 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 16:48:53 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 16:48:53 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 16:48:53 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 16:49:55 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 16:49:55 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 16:49:55 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 16:49:59 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 16:49:59 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 16:49:59 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 16:50:51 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 16:50:52 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 16:50:52 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 16:51:02 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 16:51:03 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 16:51:03 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 19:45:06 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 19:45:07 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 19:45:07 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 19:45:15 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 19:45:17 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 19:45:17 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 19:52:37 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 19:52:39 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 19:52:39 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 19:52:44 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 19:52:45 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 19:52:45 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 19:56:43 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 19:56:44 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 19:56:44 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 19:57:17 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 19:57:19 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 19:57:19 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 19:57:23 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 19:57:25 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 19:57:25 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 19:57:45 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 19:57:46 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 19:57:46 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 19:57:51 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 19:57:52 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 19:57:52 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 19:58:31 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 19:58:32 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 19:58:32 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 19:58:38 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 19:58:39 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 19:58:39 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 20:01:36 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 20:01:38 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 20:01:38 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 20:01:43 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 20:01:43 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 20:01:43 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 20:03:29 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 20:03:30 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 20:03:30 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 20:03:34 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 20:03:34 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 20:03:34 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 20:09:15 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 20:09:16 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 20:09:16 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 20:09:21 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 20:09:21 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 20:09:21 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 20:09:42 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 20:09:43 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 20:09:43 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 20:09:45 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 20:09:45 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 20:09:45 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 20:11:13 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 20:11:14 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 20:11:14 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 20:11:17 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 20:11:18 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 20:11:18 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 20:13:06 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 20:13:07 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 20:13:07 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 20:13:09 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 20:13:09 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 20:13:09 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 20:13:31 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 20:13:32 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 20:13:32 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 20:13:34 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 20:13:34 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 20:13:34 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 20:14:11 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 20:14:12 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 20:14:12 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 20:14:16 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 20:14:16 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 20:14:16 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 20:14:42 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 20:14:43 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 20:14:43 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 20:14:45 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 20:14:46 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 20:14:46 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 20:14:50 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 20:14:52 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 20:14:52 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 20:14:56 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 20:14:56 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 20:14:56 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 20:19:55 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 20:19:56 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 20:19:56 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 20:20:02 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 20:20:03 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 20:20:03 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 20:21:05 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 20:21:07 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 20:21:07 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 20:21:12 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 20:21:12 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 20:21:12 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 20:21:58 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 20:21:59 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 20:21:59 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 20:22:04 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 20:22:05 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 20:22:05 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 20:22:21 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 20:22:22 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 20:22:22 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 20:22:33 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 20:22:35 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 20:22:35 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 20:23:01 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 20:23:01 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 20:23:01 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 20:23:06 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 20:23:06 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 20:23:06 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 20:24:14 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 20:24:15 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 20:24:15 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 20:24:19 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 20:24:19 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 20:24:19 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 20:25:35 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 20:25:37 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 20:25:37 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 20:25:42 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 20:25:42 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 20:25:42 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 20:26:47 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 20:26:48 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 20:26:48 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 20:26:54 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 20:26:54 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 20:26:54 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 20:29:02 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 20:29:04 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 20:29:04 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 20:29:09 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 20:29:09 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 20:29:09 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 20:33:45 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 20:33:47 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 20:33:47 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 20:33:51 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 20:33:51 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 20:33:51 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 20:40:04 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 20:40:05 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 20:40:05 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 20:40:13 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 20:40:14 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 20:40:14 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 20:44:36 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 20:44:38 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 20:44:38 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 20:44:43 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 20:44:43 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 20:44:43 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 20:52:17 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 20:52:19 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 20:52:19 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 20:53:05 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 20:53:06 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 20:53:06 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 20:53:10 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 20:53:10 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 20:53:10 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 20:56:00 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 20:56:02 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 20:56:02 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 20:56:06 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 20:56:07 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 20:56:07 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 20:56:08 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 20:56:10 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 20:56:10 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 20:56:11 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 20:56:11 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 20:56:11 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 20:56:12 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 20:56:13 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 20:56:13 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 20:57:39 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 20:57:41 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 20:57:41 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 20:57:46 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 20:57:46 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 20:57:47 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 20:57:47 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 20:57:47 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 20:57:47 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 20:57:48 - api_access.py:42 - INFO - Getting URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 20:57:49 - api_access.py:25 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 20:57:49 - api_access.py:44 - INFO - Results: <Response [200]>
+[2023-11-07 21:05:15 - api_access.py:60 - INFO - Attempting Contact with URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 21:05:16 - api_access.py:37 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 21:05:16 - api_access.py:62 - INFO - Results: <Response [200]>
+[2023-11-07 21:05:21 - api_access.py:60 - INFO - Attempting Contact with URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 21:05:21 - api_access.py:60 - INFO - Attempting Contact with URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 21:05:22 - api_access.py:60 - INFO - Attempting Contact with URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 21:05:22 - api_access.py:60 - INFO - Attempting Contact with URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 21:05:22 - api_access.py:37 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 21:05:22 - api_access.py:62 - INFO - Results: <Response [200]>
+[2023-11-07 21:05:22 - api_access.py:37 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 21:05:22 - api_access.py:62 - INFO - Results: <Response [200]>
+[2023-11-07 21:05:23 - api_access.py:37 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 21:05:23 - api_access.py:62 - INFO - Results: <Response [200]>
+[2023-11-07 21:05:23 - api_access.py:37 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 21:05:23 - api_access.py:62 - INFO - Results: <Response [200]>
+[2023-11-07 21:05:23 - api_access.py:60 - INFO - Attempting Contact with URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 21:05:24 - api_access.py:37 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 21:05:24 - api_access.py:62 - INFO - Results: <Response [200]>
+[2023-11-07 21:17:20 - api_access.py:60 - INFO - Attempting Contact with URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 21:17:21 - api_access.py:37 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 21:17:21 - api_access.py:62 - INFO - Results: <Response [200]>
+[2023-11-07 21:17:21 - exchange_api_business.py:21 - INFO - Executing Currency Adapter: <dal.api_access.CurrencyExchangeAdapter object at 0x000001E7F1D0F4F0>
+[2023-11-07 21:17:25 - api_access.py:60 - INFO - Attempting Contact with URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 21:17:25 - api_access.py:60 - INFO - Attempting Contact with URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 21:17:25 - currency_services.py:20 - INFO - Amount: 12 invalid
+[2023-11-07 21:17:25 - api_access.py:37 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 21:17:25 - api_access.py:62 - INFO - Results: <Response [200]>
+[2023-11-07 21:17:25 - exchange_api_business.py:33 - INFO - Executing Rate Adapter: <dal.api_access.CurrencyExchangeAdapter object at 0x000001E7F1D1EB80>
+[2023-11-07 21:17:25 - api_access.py:37 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 21:17:25 - api_access.py:62 - INFO - Results: <Response [200]>
+[2023-11-07 21:17:25 - exchange_api_business.py:33 - INFO - Executing Rate Adapter: <dal.api_access.CurrencyExchangeAdapter object at 0x000001E7F1D0F880>
+[2023-11-07 21:18:21 - api_access.py:60 - INFO - Attempting Contact with URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 21:18:21 - api_access.py:60 - INFO - Attempting Contact with URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 21:18:23 - api_access.py:37 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 21:18:23 - api_access.py:62 - INFO - Results: <Response [200]>
+[2023-11-07 21:18:23 - exchange_api_business.py:33 - INFO - Executing Rate Adapter: <dal.api_access.CurrencyExchangeAdapter object at 0x0000027C2441B040>
+[2023-11-07 21:18:23 - api_access.py:37 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 21:18:23 - api_access.py:62 - INFO - Results: <Response [200]>
+[2023-11-07 21:18:23 - exchange_api_business.py:21 - INFO - Executing Currency Adapter: <dal.api_access.CurrencyExchangeAdapter object at 0x0000027C2440E4F0>
+[2023-11-07 21:18:26 - currency_services.py:20 - INFO - Amount: 12 invalid
+[2023-11-07 21:18:26 - api_access.py:60 - INFO - Attempting Contact with URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 21:18:26 - currency_services.py:36 - INFO - Multipling 12.0 * 6.86
+[2023-11-07 21:18:26 - api_access.py:37 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 21:18:26 - api_access.py:62 - INFO - Results: <Response [200]>
+[2023-11-07 21:18:26 - exchange_api_business.py:33 - INFO - Executing Rate Adapter: <dal.api_access.CurrencyExchangeAdapter object at 0x0000027C2441B6A0>
+[2023-11-07 21:18:55 - api_access.py:60 - INFO - Attempting Contact with URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 21:18:55 - api_access.py:60 - INFO - Attempting Contact with URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 21:18:57 - api_access.py:37 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 21:18:57 - api_access.py:62 - INFO - Results: <Response [200]>
+[2023-11-07 21:18:57 - exchange_api_business.py:33 - INFO - Executing Rate Adapter: <dal.api_access.CurrencyExchangeAdapter object at 0x0000028039FDA040>
+[2023-11-07 21:18:57 - api_access.py:37 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 21:18:57 - api_access.py:62 - INFO - Results: <Response [200]>
+[2023-11-07 21:18:57 - exchange_api_business.py:21 - INFO - Executing Currency Adapter: <dal.api_access.CurrencyExchangeAdapter object at 0x0000028039FCF4F0>
+[2023-11-07 21:19:01 - currency_services.py:20 - INFO - Amount: 12 invalid
+[2023-11-07 21:19:01 - currency_services.py:36 - INFO - Multipling 12.0 * 6.86
+[2023-11-07 21:19:05 - currency_services.py:20 - INFO - Amount: 12 invalid
+[2023-11-07 21:19:05 - currency_services.py:36 - INFO - Multipling 12.0 * 134.019
+[2023-11-07 21:20:43 - api_access.py:60 - INFO - Attempting Contact with URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 21:20:43 - api_access.py:60 - INFO - Attempting Contact with URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 21:20:44 - api_access.py:37 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 21:20:44 - api_access.py:62 - INFO - Results: <Response [200]>
+[2023-11-07 21:20:44 - exchange_api_business.py:21 - INFO - Executing Currency Adapter: <dal.api_access.CurrencyExchangeAdapter object at 0x00000218DC4AF4F0>
+[2023-11-07 21:20:44 - api_access.py:37 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 21:20:44 - api_access.py:62 - INFO - Results: <Response [200]>
+[2023-11-07 21:20:44 - exchange_api_business.py:33 - INFO - Executing Rate Adapter: <dal.api_access.CurrencyExchangeAdapter object at 0x00000218DC4BA040>
+[2023-11-07 21:24:30 - api_access.py:60 - INFO - Attempting Contact with URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 21:24:30 - api_access.py:60 - INFO - Attempting Contact with URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 21:24:31 - api_access.py:37 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 21:24:31 - api_access.py:62 - INFO - Results: <Response [200]>
+[2023-11-07 21:24:31 - exchange_api_business.py:33 - INFO - Executing Rate Adapter: <dal.api_access.CurrencyExchangeAdapter object at 0x0000020745A0B040>
+[2023-11-07 21:24:31 - api_access.py:37 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 21:24:31 - api_access.py:62 - INFO - Results: <Response [200]>
+[2023-11-07 21:24:31 - exchange_api_business.py:21 - INFO - Executing Currency Adapter: <dal.api_access.CurrencyExchangeAdapter object at 0x00000207459FE4F0>
+[2023-11-07 21:24:36 - currency_services.py:20 - INFO - Amount: 12 invalid
+[2023-11-07 21:24:36 - currency_services.py:36 - INFO - Multipling 12.0 * 11.57
+[2023-11-07 21:25:03 - api_access.py:60 - INFO - Attempting Contact with URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 21:25:05 - api_access.py:37 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 21:25:05 - api_access.py:62 - INFO - Results: <Response [200]>
+[2023-11-07 21:25:05 - exchange_api_business.py:21 - INFO - Executing Currency Adapter: <dal.api_access.CurrencyExchangeAdapter object at 0x000001AD3993F4F0>
+[2023-11-07 21:25:40 - api_access.py:60 - INFO - Attempting Contact with URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 21:25:40 - api_access.py:60 - INFO - Attempting Contact with URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 21:25:41 - api_access.py:37 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 21:25:41 - api_access.py:62 - INFO - Results: <Response [200]>
+[2023-11-07 21:25:41 - exchange_api_business.py:33 - INFO - Executing Rate Adapter: <dal.api_access.CurrencyExchangeAdapter object at 0x000001EB9F50C040>
+[2023-11-07 21:25:41 - api_access.py:37 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 21:25:41 - api_access.py:62 - INFO - Results: <Response [200]>
+[2023-11-07 21:25:41 - exchange_api_business.py:21 - INFO - Executing Currency Adapter: <dal.api_access.CurrencyExchangeAdapter object at 0x000001EB9F4FE4F0>
+[2023-11-07 21:26:01 - api_access.py:60 - INFO - Attempting Contact with URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 21:26:01 - api_access.py:60 - INFO - Attempting Contact with URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 21:26:02 - api_access.py:37 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 21:26:02 - api_access.py:62 - INFO - Results: <Response [200]>
+[2023-11-07 21:26:02 - exchange_api_business.py:21 - INFO - Executing Currency Adapter: <dal.api_access.CurrencyExchangeAdapter object at 0x000001C98D45E4F0>
+[2023-11-07 21:26:02 - api_access.py:37 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 21:26:02 - api_access.py:62 - INFO - Results: <Response [200]>
+[2023-11-07 21:26:02 - exchange_api_business.py:33 - INFO - Executing Rate Adapter: <dal.api_access.CurrencyExchangeAdapter object at 0x000001C98D46AE80>
+[2023-11-07 21:26:07 - currency_services.py:20 - INFO - Amount: 12 invalid
+[2023-11-07 21:26:07 - currency_services.py:36 - INFO - Multipling 12.0 * 55.222
+[2023-11-07 21:29:28 - api_access.py:60 - INFO - Attempting Contact with URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 21:29:28 - api_access.py:60 - INFO - Attempting Contact with URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 21:29:29 - api_access.py:37 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 21:29:29 - api_access.py:62 - INFO - Results: <Response [200]>
+[2023-11-07 21:29:29 - exchange_api_business.py:33 - INFO - Executing Rate Adapter: <dal.api_access.CurrencyExchangeAdapter object at 0x0000017028E5B040>
+[2023-11-07 21:29:29 - api_access.py:37 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 21:29:29 - api_access.py:62 - INFO - Results: <Response [200]>
+[2023-11-07 21:29:29 - exchange_api_business.py:21 - INFO - Executing Currency Adapter: <dal.api_access.CurrencyExchangeAdapter object at 0x0000017028E4F4F0>
+[2023-11-07 21:29:35 - currency_services.py:20 - INFO - Amount: 12 invalid
+[2023-11-07 21:29:35 - currency_services.py:36 - INFO - Multipling 12.0 * 6.86
+[2023-11-07 21:29:38 - currency_services.py:20 - INFO - Amount: 12 invalid
+[2023-11-07 21:29:38 - currency_services.py:36 - INFO - Multipling 12.0 * 618.94
+[2023-11-07 21:41:32 - api_access.py:60 - INFO - Attempting Contact with URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 21:41:32 - api_access.py:60 - INFO - Attempting Contact with URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 21:41:34 - api_access.py:37 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 21:41:34 - api_access.py:62 - INFO - Results: <Response [200]>
+[2023-11-07 21:41:34 - exchange_api_business.py:33 - INFO - Executing Rate Adapter: <dal.api_access.CurrencyExchangeAdapter object at 0x000001DF4D1D1FA0>
+[2023-11-07 21:41:34 - api_access.py:37 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 21:41:34 - api_access.py:62 - INFO - Results: <Response [200]>
+[2023-11-07 21:41:34 - exchange_api_business.py:21 - INFO - Executing Currency Adapter: <dal.api_access.CurrencyExchangeAdapter object at 0x000001DF4D1D1490>
+[2023-11-07 21:42:14 - currency_services.py:20 - INFO - Amount: twenty invalid
+[2023-11-07 21:42:50 - api_access.py:60 - INFO - Attempting Contact with URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 21:42:50 - api_access.py:60 - INFO - Attempting Contact with URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 21:42:52 - api_access.py:37 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 21:42:52 - api_access.py:62 - INFO - Results: <Response [200]>
+[2023-11-07 21:42:52 - exchange_api_business.py:33 - INFO - Executing Rate Adapter: <dal.api_access.CurrencyExchangeAdapter object at 0x0000022F33FEE100>
+[2023-11-07 21:42:52 - api_access.py:37 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 21:42:52 - api_access.py:62 - INFO - Results: <Response [200]>
+[2023-11-07 21:42:52 - exchange_api_business.py:21 - INFO - Executing Currency Adapter: <dal.api_access.CurrencyExchangeAdapter object at 0x0000022F33FDE5B0>
+[2023-11-07 21:42:55 - currency_services.py:21 - INFO - Amount: twent invalid
+[2023-11-07 21:43:32 - api_access.py:60 - INFO - Attempting Contact with URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 21:43:32 - api_access.py:60 - INFO - Attempting Contact with URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 21:43:33 - api_access.py:37 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 21:43:33 - api_access.py:62 - INFO - Results: <Response [200]>
+[2023-11-07 21:43:33 - exchange_api_business.py:21 - INFO - Executing Currency Adapter: <dal.api_access.CurrencyExchangeAdapter object at 0x000001FB86B4E5B0>
+[2023-11-07 21:43:33 - api_access.py:37 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 21:43:33 - api_access.py:62 - INFO - Results: <Response [200]>
+[2023-11-07 21:43:33 - exchange_api_business.py:33 - INFO - Executing Rate Adapter: <dal.api_access.CurrencyExchangeAdapter object at 0x000001FB86B5E100>
+[2023-11-07 21:43:36 - currency_services.py:21 - INFO - Amount: twent invalid
+[2023-11-07 21:43:41 - currency_services.py:21 - INFO - Amount: 20 invalid
+[2023-11-07 21:43:42 - currency_services.py:21 - INFO - Amount: 20 invalid
+[2023-11-07 21:43:45 - currency_services.py:21 - INFO - Amount: 20 invalid
+[2023-11-07 21:43:48 - currency_services.py:21 - INFO - Amount: 20.0 invalid
+[2023-11-07 21:44:20 - api_access.py:60 - INFO - Attempting Contact with URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 21:44:20 - api_access.py:60 - INFO - Attempting Contact with URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 21:44:21 - api_access.py:37 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 21:44:21 - api_access.py:62 - INFO - Results: <Response [200]>
+[2023-11-07 21:44:21 - exchange_api_business.py:21 - INFO - Executing Currency Adapter: <dal.api_access.CurrencyExchangeAdapter object at 0x0000011BAA3DD5B0>
+[2023-11-07 21:44:21 - api_access.py:37 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 21:44:21 - api_access.py:62 - INFO - Results: <Response [200]>
+[2023-11-07 21:44:21 - exchange_api_business.py:33 - INFO - Executing Rate Adapter: <dal.api_access.CurrencyExchangeAdapter object at 0x0000011BAA3ED100>
+[2023-11-07 21:44:26 - currency_services.py:21 - INFO - Amount: 20 invalid
+[2023-11-07 21:44:37 - api_access.py:60 - INFO - Attempting Contact with URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 21:44:37 - api_access.py:60 - INFO - Attempting Contact with URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 21:44:38 - api_access.py:37 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 21:44:38 - api_access.py:62 - INFO - Results: <Response [200]>
+[2023-11-07 21:44:38 - exchange_api_business.py:21 - INFO - Executing Currency Adapter: <dal.api_access.CurrencyExchangeAdapter object at 0x000001F0FCBBD5B0>
+[2023-11-07 21:44:38 - api_access.py:37 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 21:44:38 - api_access.py:62 - INFO - Results: <Response [200]>
+[2023-11-07 21:44:38 - exchange_api_business.py:33 - INFO - Executing Rate Adapter: <dal.api_access.CurrencyExchangeAdapter object at 0x000001F0FCBCD100>
+[2023-11-07 21:44:41 - currency_services.py:21 - INFO - Amount: 20 invalid
+[2023-11-07 21:44:41 - currency_services.py:37 - INFO - Multipling 20.0 * 36.5
+[2023-11-07 21:44:44 - currency_services.py:21 - INFO - Amount: twenty invalid
+[2023-11-07 21:46:35 - api_access.py:60 - INFO - Attempting Contact with URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 21:46:35 - api_access.py:60 - INFO - Attempting Contact with URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 21:46:36 - api_access.py:37 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 21:46:36 - api_access.py:62 - INFO - Results: <Response [200]>
+[2023-11-07 21:46:36 - exchange_api_business.py:33 - INFO - Executing Rate Adapter: <dal.api_access.CurrencyExchangeAdapter object at 0x000001B034A9E070>
+[2023-11-07 21:46:36 - api_access.py:37 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 21:46:36 - api_access.py:62 - INFO - Results: <Response [200]>
+[2023-11-07 21:46:36 - exchange_api_business.py:21 - INFO - Executing Currency Adapter: <dal.api_access.CurrencyExchangeAdapter object at 0x000001B034A8E5B0>
+[2023-11-07 21:47:53 - api_access.py:60 - INFO - Attempting Contact with URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 21:47:53 - api_access.py:60 - INFO - Attempting Contact with URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 21:47:54 - api_access.py:37 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 21:47:54 - api_access.py:62 - INFO - Results: <Response [200]>
+[2023-11-07 21:47:54 - exchange_api_business.py:33 - INFO - Executing Rate Adapter: <dal.api_access.CurrencyExchangeAdapter object at 0x000001CA4F51E0D0>
+[2023-11-07 21:47:54 - api_access.py:37 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 21:47:54 - api_access.py:62 - INFO - Results: <Response [200]>
+[2023-11-07 21:47:54 - exchange_api_business.py:21 - INFO - Executing Currency Adapter: <dal.api_access.CurrencyExchangeAdapter object at 0x000001CA4F50F580>
+[2023-11-07 21:47:56 - currency_services.py:36 - INFO - Multipling 23.0 * 36.5
+[2023-11-07 22:24:44 - api_access.py:60 - INFO - Attempting Contact with URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 22:24:44 - api_access.py:60 - INFO - Attempting Contact with URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-07 22:24:44 - api_access.py:37 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 22:24:44 - api_access.py:62 - INFO - Results: <Response [200]>
+[2023-11-07 22:24:44 - exchange_api_business.py:21 - INFO - Executing Currency Adapter: <dal.api_access.CurrencyExchangeAdapter object at 0x0000025464A7F580>
+[2023-11-07 22:24:44 - api_access.py:37 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-07 22:24:44 - api_access.py:62 - INFO - Results: <Response [200]>
+[2023-11-07 22:24:44 - exchange_api_business.py:33 - INFO - Executing Rate Adapter: <dal.api_access.CurrencyExchangeAdapter object at 0x0000025464A8D0D0>
+[2023-11-07 22:25:41 - currency_services.py:36 - INFO - Multipling 123.56 * 23.103
+[2023-11-09 14:09:32 - api_access.py:60 - INFO - Attempting Contact with URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-09 14:09:32 - api_access.py:60 - INFO - Attempting Contact with URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-09 14:09:33 - api_access.py:37 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-09 14:09:33 - api_access.py:62 - INFO - Results: <Response [200]>
+[2023-11-09 14:09:33 - exchange_api_business.py:33 - INFO - Executing Rate Adapter: <dal.api_access.CurrencyExchangeAdapter object at 0x000001DEA961D100>
+[2023-11-09 14:09:33 - api_access.py:37 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-09 14:09:33 - api_access.py:62 - INFO - Results: <Response [200]>
+[2023-11-09 14:09:33 - exchange_api_business.py:21 - INFO - Executing Currency Adapter: <dal.api_access.CurrencyExchangeAdapter object at 0x000001DEA9610580>
+[2023-11-09 14:09:40 - currency_services.py:36 - INFO - Multipling 23.56 * 6.86
+[2023-11-09 14:15:07 - api_access.py:60 - INFO - Attempting Contact with URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-09 14:15:07 - api_access.py:60 - INFO - Attempting Contact with URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-09 14:15:07 - api_access.py:37 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-09 14:15:07 - api_access.py:62 - INFO - Results: <Response [200]>
+[2023-11-09 14:15:07 - exchange_api_business.py:33 - INFO - Executing Rate Adapter: <dal.api_access.CurrencyExchangeAdapter object at 0x00000244FEA6C0D0>
+[2023-11-09 14:15:07 - api_access.py:37 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-09 14:15:07 - api_access.py:62 - INFO - Results: <Response [200]>
+[2023-11-09 14:15:07 - exchange_api_business.py:21 - INFO - Executing Currency Adapter: <dal.api_access.CurrencyExchangeAdapter object at 0x00000244FEA60580>
+[2023-11-09 14:15:19 - currency_services.py:36 - INFO - Multipling 34.67 * 365.5
+[2023-11-17 10:29:43 - api_access.py:60 - INFO - Attempting Contact with URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-17 10:29:43 - api_access.py:60 - INFO - Attempting Contact with URL: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=currency,record_date,exchange_rate&filter=record_date:gte:2023-01-01&page[size]=1000
+[2023-11-17 10:29:43 - api_access.py:37 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-17 10:29:43 - api_access.py:62 - INFO - Results: <Response [200]>
+[2023-11-17 10:29:43 - exchange_api_business.py:33 - INFO - Executing Rate Adapter: <dal.api_access.CurrencyExchangeAdapter object at 0x0000014B0E32E0D0>
+[2023-11-17 10:29:44 - api_access.py:37 - INFO - Response is <Response [200]> in self.make_request()
+[2023-11-17 10:29:44 - api_access.py:62 - INFO - Results: <Response [200]>
+[2023-11-17 10:29:44 - exchange_api_business.py:21 - INFO - Executing Currency Adapter: <dal.api_access.CurrencyExchangeAdapter object at 0x0000014B0E31F580>
+[2023-11-17 10:29:49 - currency_services.py:36 - INFO - Multipling 12.89 * 4468.0
